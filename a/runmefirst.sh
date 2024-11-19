@@ -23,3 +23,5 @@ cp /etc/mailcap ~/.mailcap
 
 
 git clone https://github.com/stolk/imcat.git # CLI image viewer
+
+npm install http-server -g // http-server -o <DIR>
